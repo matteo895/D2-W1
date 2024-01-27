@@ -1,0 +1,23 @@
+body {
+  width: 100%;
+  text-align: center;
+  background-color: salmon;
+}
+
+#logo {
+  transform: scale(1.5);
+  padding: 3em;
+}
+
+.table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+.table-due {
+  border: 1px solid black;
+  padding: 1em;
+}
+
+#final {
+  margin-top: 1em;
+}
